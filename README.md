@@ -17,12 +17,10 @@ To write a program to find the LU Decomposition of a matrix.
 (i) To find the L and U matrix
 <img width="637" height="268" alt="{15948198-1B8E-4E94-8BED-C7AC455D7412}" src="https://github.com/user-attachments/assets/feb8e3ef-c11a-45a5-b3a0-386c77659d97" />
 
-```
 (ii) To find the LU Decomposition of a matrix
-```
+
 <img width="605" height="319" alt="{BB322BD6-9009-4E13-9255-3D62DBED77B4}" src="https://github.com/user-attachments/assets/b55560e1-515a-4d44-bf7a-6d55fb0fcd89" />
 
-```
 
 ## Output:
 ![lu decomposition]()
