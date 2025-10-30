@@ -25,8 +25,6 @@ To write a program to find the LU Decomposition of a matrix.
 
 ## Output:
 
-![lu decomposition]()
-
 (i)
 
 <img width="1154" height="434" alt="image" src="https://github.com/user-attachments/assets/df6c76dc-04fb-4b73-9275-536a603e49a5" />
